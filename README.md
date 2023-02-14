@@ -14,4 +14,10 @@
 <img width="681" alt="Screenshot 2023-02-15 at 0 15 26" src="https://user-images.githubusercontent.com/78187015/218779203-e4a98bd6-c220-4fac-b8ca-2016b57500ed.png">
 
 ## 解法
-- 
+- 特徴量エンジニアリング
+    - ラベルエンコーディング
+    - 標準化
+- 使用モデル
+    - LightGBM
+- validation方法
+    - 月ごとに検証データを作成し、1カ月ごとずらしていく
